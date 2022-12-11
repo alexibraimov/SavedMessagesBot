@@ -1,0 +1,14 @@
+{
+  "token": "<YOUR_TELEGRAM_BOT_TOKEN>",
+  "baseFolder": "D:\\Telegram",
+  "users": [ "alexibraimov" ],
+  "locale": {
+    "/stop": "Bye, bye!",
+    "/start": "Welcome to! \nSend me files, photos, stickers or text. I will save them on your computer.",
+    "/help": "Send me files, photos, stickers or text. I will save them on your computer.",
+    "OopsSomethingWentWrongPleaseRetryThisAction": "Oops, something went wrong. Please retry this action.",
+    "ArgumentNullException": "Oops, something went wrong. Please retry this action.",
+    "NotSupportedException": "Sorry, this message type is not supported.",
+    "AccessDeniedException": "Sorry, you are denied access."
+  }
+}
